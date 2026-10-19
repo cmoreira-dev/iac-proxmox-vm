@@ -1,0 +1,8 @@
+site_name: 'iac-proxmox-vm'
+site_description: 'Reusable Terraform module for one guarded Proxmox VM'
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
