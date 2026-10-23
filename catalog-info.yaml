@@ -4,7 +4,6 @@ metadata:
   name: iac-proxmox-vm
   description: Reusable Terraform module for one guarded Proxmox VM
   annotations:
-    github.com/project-slug: cmoreira-dev/iac-proxmox-vm
     backstage.io/techdocs-ref: dir:.
 spec:
   type: library
